@@ -63,7 +63,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\newcourse.xml" />
     <Content Include="packages.config" />
+    <Content Include="assets\newcourse.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -85,11 +87,12 @@
     <Content Include="Content\Scripts\bootstrap.min.js" />
     <Content Include="Content\Scripts\jquery-1.9.1.js" />
     <Content Include="Content\Scripts\jquery-1.9.1.min.js" />
-    <Content Include="index.html" />
+    <Content Include="assets\index.html" />
     <Content Include="Web.config" />
     <Content Include="Content\Scripts\jquery-1.9.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Course.cs" />
     <Compile Include="HomeModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,11 @@
+{
+  "name"    : "Getting Started with Nancy",
+  "author"  : "Richard Cirerol",
+  "modules" : [
+    { "topic" : "Introduction" },
+    { "topic" : "The NancyModule" },
+    { "topic" : "Extending the NancyModule" }
+ ]
+}
+
+/* curl -X POST http://localhost:51507/courses -H "Content-Type:application/json" -d @assets/newcourse.json -i */

@@ -1,0 +1,14 @@
+<course author="Richard Cirerol">
+	<name>Getting Started with Nancy</name>
+	<modules>
+		<module>
+			<topic>Introduction</topic>
+		</module>
+		<module>
+			<topic>The NancyModule</topic>
+		</module>
+		<module>
+			<topic>Extending the NancyModule</topic>
+		</module>
+	</modules>
+</course>

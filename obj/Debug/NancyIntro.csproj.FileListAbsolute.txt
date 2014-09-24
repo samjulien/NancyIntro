@@ -8,3 +8,11 @@ C:\Users\spjulien\Documents\GitHub\NancyIntro\NancyIntro\bin\Nancy.Hosting.Aspne
 C:\Users\spjulien\Documents\GitHub\NancyIntro\NancyIntro\obj\Debug\NancyIntro.csprojResolveAssemblyReference.cache
 C:\Users\spjulien\Documents\GitHub\NancyIntro\NancyIntro\obj\Debug\NancyIntro.dll
 C:\Users\spjulien\Documents\GitHub\NancyIntro\NancyIntro\obj\Debug\NancyIntro.pdb
+C:\Users\sjulien\Documents\GitHub\NancyIntro\bin\NancyIntro.dll.config
+C:\Users\sjulien\Documents\GitHub\NancyIntro\bin\NancyIntro.dll
+C:\Users\sjulien\Documents\GitHub\NancyIntro\bin\NancyIntro.pdb
+C:\Users\sjulien\Documents\GitHub\NancyIntro\bin\Nancy.xml
+C:\Users\sjulien\Documents\GitHub\NancyIntro\bin\Nancy.Hosting.Aspnet.xml
+C:\Users\sjulien\Documents\GitHub\NancyIntro\obj\Debug\NancyIntro.csprojResolveAssemblyReference.cache
+C:\Users\sjulien\Documents\GitHub\NancyIntro\obj\Debug\NancyIntro.dll
+C:\Users\sjulien\Documents\GitHub\NancyIntro\obj\Debug\NancyIntro.pdb
